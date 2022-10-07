@@ -1,2 +1,3 @@
 # ILSM
-The India Landslide Susceptibility Map
+
+This is the repository of the India Landslide Susceptibility Map
