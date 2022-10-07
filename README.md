@@ -1,6 +1,6 @@
 # ILSM
 
-This is the repository of the India Landslide Susceptibility Map./n
+This is the repository of the India Landslide Susceptibility Map.  
 Since github does not allow larger files please drop a message for model .pkl files
 The Input Data Prep includes code for data preparation after data is acquired
 The models file includes models info and the output_prep includes code for data vizualization
