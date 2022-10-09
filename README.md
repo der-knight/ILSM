@@ -1,4 +1,4 @@
-# ILSM
+## ILSM
 
 This is the repository of the India Landslide Susceptibility Map.  
 Since github does not allow larger files please drop a message for model .pkl files of the models.  
