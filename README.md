@@ -1,8 +1,10 @@
-## ILSM
+## Code for 
 
 ![graphical abstract drawio](https://github.com/der-knight/ILSM/blob/main/Images/graphical%20abstract.jpg)
 This is the repository of the India Landslide Susceptibility Map.  
-Since github does not allow larger files please drop a message for model .pkl files of the models.  
-The Input Data Prep includes code for data preparation after data is acquired. The models file includes models loading and ensemble generation, and the output_prep includes code for data postprocessing and data vizualization  
-https://code.earthengine.google.com/?scriptPath=users%2Fnirdeshsharmanith%2Fnirdesh%3ALslide%2Faverage_landslie_input  
-is the gee code used to get averaged data at 1km resolution from gee. The rest of the data used for the models can be obtained from source
+The Input Data Prep includes code for data preparation after data is acquired. 
+The models file includes models loading and ensemble generation, and the output_prep includes code for data postprocessing and data vizualization  
+The data for the model used can be obtained from source
+The Raw Tiff files can be obtained from
+ILSM probability https://bit.ly/3ibptIP
+ILSM class https://bit.ly/3IidXGn
