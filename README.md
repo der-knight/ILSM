@@ -5,6 +5,6 @@ This is the repository of the India Landslide Susceptibility Map.
 The Input Data Prep includes code for data preparation after data is acquired. 
 The models file includes models loading and ensemble generation, and the output_prep includes code for data postprocessing and data vizualization  
 The data for the model used can be obtained from source
-The Raw Tiff files can be obtained from /n
-ILSM probability https://bit.ly/3ibptIP /n
-ILSM class https://bit.ly/3IidXGn /n
+The Raw Tiff files can be obtained from  
+ILSM probability https://bit.ly/3ibptIP  
+ILSM class https://bit.ly/3IidXGn  
