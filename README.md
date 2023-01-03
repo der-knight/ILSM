@@ -1,6 +1,6 @@
 ## ILSM
 
-![graphical abstract drawio](https://user-images.githubusercontent.com/64939619/194744337-4a5a406a-6709-4bdc-85d0-a4be5c7ad1fc.png)
+![graphical abstract drawio](https://github.com/der-knight/ILSM/blob/main/Images/graphical%20abstract.jpg)
 This is the repository of the India Landslide Susceptibility Map.  
 Since github does not allow larger files please drop a message for model .pkl files of the models.  
 The Input Data Prep includes code for data preparation after data is acquired. The models file includes models loading and ensemble generation, and the output_prep includes code for data postprocessing and data vizualization  
