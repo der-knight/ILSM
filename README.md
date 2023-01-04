@@ -1,4 +1,5 @@
-## Code for 
+## Code for High resolution landslide susceptibility mapping using ensemble machine learning and geospatial big data
+
 
 ![graphical abstract drawio](https://github.com/der-knight/ILSM/blob/main/Images/graphical%20abstract.jpg)
 This is the repository of the India Landslide Susceptibility Map.  
