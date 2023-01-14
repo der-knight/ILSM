@@ -14,3 +14,4 @@ ILSM class https://bit.ly/3IidXGn
 var ILSM_class= ee.Image("projects/ee-nirdeshsharmanith1/assets/ILSM")  
 var ILSM_probability=ee.Image("projects/ee-nirdeshsharmanith1/assets/ILSM_probability")  
 ````
+https://code.earthengine.google.com/d12776e87f52351d7a90fe1bab41ffa2
