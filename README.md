@@ -9,9 +9,10 @@ The data for the model used can be obtained from source
 ## The Raw Tiff files can be obtained from:
 ILSM probability https://bit.ly/3ibptIP  
 ILSM class https://bit.ly/3IidXGn  
-## The Google Earth Engine code for ILSM
+## The Google Earth Engine code for loading ILSM
 ````
 var ILSM_class= ee.Image("projects/ee-nirdeshsharmanith1/assets/ILSM")  
 var ILSM_probability=ee.Image("projects/ee-nirdeshsharmanith1/assets/ILSM_probability")  
 ````
+## The Google Earth Engine code for visualizing ILSM
 https://code.earthengine.google.com/d12776e87f52351d7a90fe1bab41ffa2
