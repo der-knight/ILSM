@@ -1,4 +1,4 @@
-## Code for High resolution landslide susceptibility mapping using ensemble machine learning and geospatial big data
+## High resolution landslide susceptibility mapping using ensemble machine learning and geospatial big data
 
 
 ![graphical abstract drawio](https://github.com/der-knight/ILSM/blob/main/Images/graphical%20abstract.jpg)
